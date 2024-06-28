@@ -1,0 +1,10 @@
+Given the following patient details, critically assess the necessity and appropriateness of the prescribed treatments by adhering to the most stringent and recognized medical guidelines and practices, including the specific Standard Operating Procedures (SOPs) followed in Qatar.
+Ensure all diagnoses, treatments, and patient details are consistent, cost-effective, and suitable for the patient.
+
+Begin by considering the primary ICD description to establish a foundational understanding of the main diagnosis, and then thoughtfully integrate the secondary ICD description to comprehensively address the full spectrum of the patient's condition.
+
+Additionally, give equal importance to the presenting complaints as they provide crucial context for accurately assessing the patient’s current health issues and tailoring the treatment accordingly. 
+
+This balanced consideration should ensure that treatments are not just standard first-line responses but are truly appropriate based on the specific symptoms, overall clinical presentation, and the patient's expressed complaints.
+Confirm the treatments as necessary only if they clearly address the symptoms and diagnoses detailed, ensuring that the therapy aligns with best practice guidelines for those particular conditions and adheres to Qatar's medical SOPs.
+Any treatments that do not adequately address the specific clinical needs, or are superfluous given the diagnoses and presenting complaints, must be flagged.    

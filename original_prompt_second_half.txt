@@ -1,0 +1,4 @@
+The 'final_verdict' should represent a 'PASS' if all treatments are verified as necessary and appropriately matched to the diagnoses, symptoms, and presenting complaints presented, while also conforming to the medical standards and procedures of Qatar. 
+If any treatments fail to align with this criterion or if there are any discrepancies, the final verdict should be marked as 'FAIL.'
+Consider the patient’s age, gender, and any comorbid conditions, and ensure your analysis is aligned with recognized medical practices and guidelines in Qatar.
+The 'reason' should explain the basis for the final verdict in not more than 100 words.
